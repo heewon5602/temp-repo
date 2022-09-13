@@ -1,4 +1,4 @@
-# temp-repo
+### temp-repo
 Lab2 _ Summary of class
 
 # Introduction of GitHub
